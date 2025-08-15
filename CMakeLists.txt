@@ -9,7 +9,7 @@ set(CMAKE_CXX_STANDARD 17)
 #set this to true to ship the game!
 #basically this will change the RESOURCES_PATH to be the local path
 #! ! ! ! ! ! !
-set(PRODUCTION_BUILD OFF CACHE BOOL "Make this a production build" FORCE)
+set(PRODUCTION_BUILD OFF CACHE BOOL "Make this a production build")
 #delete the out folder after changing if visual studio doesn recognize the change!
 
 

@@ -1,9 +1,12 @@
 /out
 bin/
 build/
-/.vs
-.idea/
+
+.vs
+.idea
+
 CMakeSettings.json
+
 Makefile
 
 logs.txt
